@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow:/
+
+Sitemap: https://hhaahaa.github.io/sitemap.xml
